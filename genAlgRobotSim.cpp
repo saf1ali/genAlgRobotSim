@@ -1,8 +1,4 @@
-//final.cpp
 //Safwan Ali
-//Fowler
-//December 16 2021
-//CISP 400
 
 #include <iostream>
 #include <cstdlib>
